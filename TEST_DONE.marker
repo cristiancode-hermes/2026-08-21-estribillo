@@ -1,0 +1,7 @@
+QA testing complete for 2026-08-21
+Project: estribillo
+Build: ✅ API tsc + Angular 22 production
+Tests: 23/23 passing (Jest) + 24/24 endpoint smoke
+New tests: existing coverage adequate
+Issues: 0 critical
+Published: ✅ Caddy (estribillo.proyectos.cristiancode.dev :3070), ✅ Portfolio (es.ts+en.ts+pt.ts), ✅ GitHub, ✅ Landing, ✅ Excel
